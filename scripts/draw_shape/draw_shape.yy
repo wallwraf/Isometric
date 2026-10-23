@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_shape",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_shape",
+  "parent":{
+    "name":"IsometricGame",
+    "path":"IsometricGame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

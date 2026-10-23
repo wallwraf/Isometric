@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hitboxes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hitboxes",
+  "parent":{
+    "name":"IsometricGame",
+    "path":"IsometricGame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

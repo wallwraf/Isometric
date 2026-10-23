@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dust",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dust",
+  "parent":{
+    "name":"IsometricGame",
+    "path":"IsometricGame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

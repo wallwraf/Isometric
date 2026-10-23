@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"weapons",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"weapons",
+  "parent":{
+    "name":"IsometricGame",
+    "path":"IsometricGame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
